@@ -105,13 +105,13 @@ My goal isn't just to learn technologies — it's to use them to build things th
 🤝 Let's Connect
 
 <p align="left">
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="www.linkedin.com/in/aditya-mohite-048a75405">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="YOUR_PORTFOLIO_URL">
+  <a href="https://adimohite7743-rgb.github.io/student-portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=google-chrome" />
   </a>
-  <a href="YOUR_CODEFORCES_URL">
+  <a href="https://codeforces.com/profile/aditya_mohite_1">
     <img src="https://img.shields.io/badge/Codeforces-Profile-1f8acb?style=for-the-badge&logo=codeforces" />
   </a>
 </p>---
