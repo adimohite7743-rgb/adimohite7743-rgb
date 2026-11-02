@@ -20,30 +20,9 @@
 
 
 
-👋 Hey, I'm Aditya Mohite
 
-🚀 Student | Developer | AI/ML & Cybersecurity Enthusiast
 
-«Turning ideas into meaningful products.»
 
-I'm a student passionate about technology, problem-solving, and building things that can create real-world value. I'm currently exploring AI/ML, Cybersecurity, DSA, and Open Source, while continuously improving my development skills.
-
----
-
-🧑‍💻 About Me
-
-- 🎓 Pursuing BS in Data Science & Applications at IIT Madras
-- 💻 Currently working with Java, Python, HTML, CSS & JavaScript
-- 🧠 Learning Data Structures & Algorithms
-- 🤖 Exploring Artificial Intelligence & Machine Learning
-- 🔐 Exploring Cybersecurity
-- 🌍 Interested in Open Source & GSoC
-- 🚀 Building projects and turning ideas into meaningful products
-- 📚 Always learning, experimenting, and improving
-
----
-
-🛠️ Tech Stack
 
 💻 Languages
 
@@ -57,44 +36,6 @@ I'm a student passionate about technology, problem-solving, and building things 
 
 ---
 
-🚀 What I'm Working Toward
-
-DSA
- └── Problem Solving
-      └── Competitive Programming
-
-AI / ML
- └── Machine Learning
-      └── Intelligent Products
-
-Cybersecurity
- └── Security Fundamentals
-      └── Secure Applications
-
-Open Source
- └── Git & GitHub
-      └── Contributions
-           └── GSoC
-
----
-
-📌 Featured Projects
-
-«🚧 I'm continuously building and improving projects. More coming soon!»
-
-🌐 Personal Portfolio
-
-A personal portfolio showcasing my journey, skills, projects, and interests.
-
-Tech: HTML • CSS • JavaScript
-
----
-
-💡 More Projects Coming Soon
-
-I'm working on projects that combine development, AI/ML, problem-solving, and real-world ideas.
-
----
 
 📊 My GitHub Journey
 
