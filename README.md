@@ -1,3 +1,25 @@
+<p align="center">
+<img src="https://www.gitskins.com/api/section/hero?username=adimohite7743-rgb&theme=matrix&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F278929725%3Fu%3D7c551f772efaf92567ce23d45ecfd251152d5010%26v%3D4&v=showcase-hero-1" alt="aditya mohite hero visual" />
+</p>
+
+<p align="center">
+<img src="https://www.gitskins.com/api/section/projects?username=adimohite7743-rgb&theme=matrix&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F278929725%3Fu%3D7c551f772efaf92567ce23d45ecfd251152d5010%26v%3D4&v=showcase-projects-2" alt="aditya mohite projects visual" />
+</p>
+
+<p align="center">
+<img src="https://www.gitskins.com/api/section/heatmap?username=adimohite7743-rgb&theme=matrix&style=snake&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F278929725%3Fu%3D7c551f772efaf92567ce23d45ecfd251152d5010%26v%3D4&v=showcase-heatmap-3" alt="aditya mohite heatmap visual" />
+</p>
+
+<p align="center">
+<img src="https://www.gitskins.com/api/section/stats?username=adimohite7743-rgb&theme=matrix&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F278929725%3Fu%3D7c551f772efaf92567ce23d45ecfd251152d5010%26v%3D4&v=showcase-stats-4" alt="aditya mohite stats visual" />
+</p>
+
+<p align="center">
+<img src="https://www.gitskins.com/api/section/social?username=adimohite7743-rgb&theme=matrix&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F278929725%3Fu%3D7c551f772efaf92567ce23d45ecfd251152d5010%26v%3D4&v=showcase-social-5" alt="aditya mohite social visual" />
+</p>
+
+
+
 👋 Hey, I'm Aditya Mohite
 
 🚀 Student | Developer | AI/ML & Cybersecurity Enthusiast
