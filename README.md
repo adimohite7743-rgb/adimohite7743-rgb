@@ -1,4 +1,5 @@
 <p align="center">
+  
 <img src="https://www.gitskins.com/api/section/hero?username=adimohite7743-rgb&theme=matrix&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F278929725%3Fu%3D7c551f772efaf92567ce23d45ecfd251152d5010%26v%3D4&v=showcase-hero-1" alt="aditya mohite hero visual" />
 </p>
 
@@ -78,9 +79,11 @@ My goal isn't just to learn technologies — it's to use them to build things th
   <a href="https://adimohite7743-rgb.github.io/student-portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=google-chrome" />
   </a>
+  
   <a href="https://codeforces.com/profile/aditya_mohite_1">
     <img src="https://img.shields.io/badge/Codeforces-Profile-1f8acb?style=for-the-badge&logo=codeforces" />
   </a>
+  
 </p>---
 
 💭 "Build. Learn. Solve. Repeat."
